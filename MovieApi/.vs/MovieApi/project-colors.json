@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22b4cade-c72c-452f-9b1a-f0495e45edaf": {
+      "ProjectGuid": "22b4cade-c72c-452f-9b1a-f0495e45edaf",
+      "DisplayName": "MovieApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
